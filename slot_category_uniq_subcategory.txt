@@ -1,0 +1,71 @@
+##简单标注符号:正式标注符号:解释:示例
+
+##时间类 : 与时间相关的槽
+sh_zq : t_period : 周期  : 每周
+sj_sc : t_len : 时长  : 3天
+sj_sj : t_time : 时间  : 明天
+sj_jr : t_festival 节日  : 圣诞节
+  
+##空间类: 与空间相关的槽
+kj_jl : s_distance : 距离  : 30公里
+kj_cs : s_cities : 城市  : 东京
+kj_gj : s_country : 国家  : 日本
+kj_dq : s_area : 地区  : 东京
+kj_dd : s_place : 地点  : 秋叶原
+kj_jd : s_attractions : 景点  : 富士山
+kj_wz : s_position : 位置  : 上
+  
+##自然类: 与自然相关的槽
+zr_tq : n_weather : 天气 : 晴,下雨
+zr_qw : n_temperature : 气温 : 热,冷
+zr_jg : n_landscape : 景观 : 日出,樱花
+  
+##人员类: 与人相关的槽
+ry_ry : p_person : 人员 : 外婆,父亲,朋友
+ry_rs : p_num : 人数 : 10人
+ry_mz : p_nation : 民族 : 汉族, 土家族
+  
+##日常类
+rc_yy : lang : 语言 : 日语,英语
+rc_dj : degree : 等级 : 最好,TOP50
+rc_yl : tv_show : 娱乐 : 动漫,日剧
+  
+##交易类: 与买卖相关的槽
+jy_jg : pr_price : 价格 : 贵,便宜
+jy_xyk : pr_credit_card : 信用卡类型 : visa卡
+jy_bz : pr_currency : 币种 : 美元, 日元
+jy_fy : pr_charge : 费用 : 免费, 自费
+jy_zffs : pr_pay_type : 支付方式 : 支付宝,信用卡,现金
+jy_sd : pr_store : 商店 : 免税店, 友谊商店
+jy_pk : pr_traffic_card : 票卡 : JR7日票,JRpass全日券 西瓜卡
+jy_pp : pr_brand : 品牌 : 资生堂
+ 
+##服务类: 与旅游中常见的服务相关的槽
+fw_hd : sv_activity : 活动 : 店庆
+fw_qz : sv_visa 签证 : 落地签,免签,落地签,电子签,过境签
+fw_yyrj : sv_app : 应用软件 : 携程, 大众点评, app, 携程网,去哪网
+fw_fw : sv_service : 服务 : 预定服务
+  
+##产品类: 与旅游中常见的产品相关的槽 衣
+y_yf : g_clothes : 衣服 : 羽绒服,毛衣,短袖
+y_cl : g_clothes_material :材料 : 棉,纱,薄纱
+  
+##食品类: 与旅游中常见的产品相关的槽 食
+s_sw : f_food : 食物/菜 : 鲁菜
+s_fg : f_restaurant : 饭馆 : 全聚德
+s_sp : f_goods : 商品 : 自拍杆
+  
+##住类: 与旅游中常见的产品相关的槽 住
+zhu_jd : h_hotel : 酒店 : 万豪酒店
+zhu_fjlx : h_room_type : 房间类型 : 标准间, 单人间
+zhu_zsfw : h_hotel_service :住宿服务 : wifi
+zhu_ylcs : h_fun_place : 娱乐场所 : 桑拿会所
+zhu_clx : h_bed_type : 床类型 : 大床、榻榻米
+  
+##交通类: 与旅游中常见的产品相关的槽 行
+jt_jtgj : tr_vehicle : 交通工具 : 火车,新干线
+jt_lxfs : tr_travel_type : 旅行方式 : 自由行, 自驾游，蜜月游
+jt_xm : tr_service item : 项目 : 停车
+jt_cyfw : tr_travel_service : 出行服务 : wifi
+jt_lxs : tr_travel_agency : 旅行社 : 国旅
+jt_jtls : tr_traffic_type : 交通类型 : 直达,换乘,往返
