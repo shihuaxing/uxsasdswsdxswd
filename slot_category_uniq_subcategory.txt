@@ -45,6 +45,7 @@ fw_hd : sv_activity : 活动 : 店庆
 fw_qz : sv_visa 签证 : 落地签,免签,落地签,电子签,过境签
 fw_yyrj : sv_app : 应用软件 : 携程, 大众点评, app, 携程网,去哪网
 fw_fw : sv_service : 服务 : 预定服务
+fw_lyxm : sv_project : 旅游项目 : 海盗船
   
 ##产品类: 与旅游中常见的产品相关的槽 衣
 y_yf : g_clothes : 衣服 : 羽绒服,毛衣,短袖
