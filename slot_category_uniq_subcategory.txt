@@ -29,8 +29,10 @@ ry_mz : p_nation : 民族 : 汉族, 土家族
 rc_yy : lang : 语言 : 日语,英语
 rc_dj : degree : 等级 : 最好,TOP50
 rc_yl : tv_show : 娱乐 : 动漫,日剧
+
   
 ##交易类: 与买卖相关的槽
+jy_yh : pr_bank : 银行 : 工商银行, 中国银行
 jy_jg : pr_price : 价格 : 贵,便宜
 jy_xyk : pr_credit_card : 信用卡类型 : visa卡
 jy_bz : pr_currency : 币种 : 美元, 日元
