@@ -72,3 +72,4 @@ jt_xm : tr_service item : 项目 : 停车
 jt_cyfw : tr_travel_service : 出行服务 : wifi
 jt_lxs : tr_travel_agency : 旅行社 : 国旅
 jt_jtls : tr_traffic_type : 交通类型 : 直达,换乘,往返
+jt_jc : tr_airport : 机场: 和平机场, 东京机场
