@@ -10,8 +10,8 @@ sj_jr : t_festival 节日  : 圣诞节
 kj_jl : s_distance : 距离  : 30公里
 kj_cs : s_cities : 城市  : 东京
 kj_gj : s_country : 国家  : 日本
-kj_dq : s_area : 地区  : 东京
-kj_dd : s_place : 地点  : 秋叶原
+kj_dq : s_area : 地区  : 东京 中国的省 
+kj_dd : s_place : 地点  : 秋叶原 中国的区县
 kj_jd : s_attractions : 景点  : 富士山
 kj_wz : s_position : 位置  : 上
   
