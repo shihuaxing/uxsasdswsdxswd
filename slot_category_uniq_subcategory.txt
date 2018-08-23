@@ -41,7 +41,9 @@ jy_zffs : pr_pay_type : 支付方式 : 支付宝,信用卡,现金
 jy_sd : pr_store : 商店 : 免税店, 友谊商店
 jy_pk : pr_traffic_card : 票卡 : JR7日票,JRpass全日券 西瓜卡
 jy_pp : pr_brand : 品牌 : 资生堂
- 
+jy_gp : pr_stock : 股票 : 中国石油
+
+
 ##服务类: 与旅游中常见的服务相关的槽
 fw_hd : sv_activity : 活动 : 店庆
 fw_qz : sv_visa 签证 : 落地签,免签,落地签,电子签,过境签
