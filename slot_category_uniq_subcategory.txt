@@ -54,11 +54,11 @@ fw_lyxm : sv_project : 旅游项目 : 海盗船
 ##产品类: 与旅游中常见的产品相关的槽 衣
 y_yf : g_clothes : 衣服 : 羽绒服,毛衣,短袖
 y_cl : g_clothes_material :材料 : 棉,纱,薄纱
+y_sp : g_goods : 商品 : 自拍杆
   
 ##食品类: 与旅游中常见的产品相关的槽 食
 s_sw : f_food : 食物/菜 : 鲁菜
 s_fg : f_restaurant : 饭馆 : 全聚德
-s_sp : f_goods : 商品 : 自拍杆
   
 ##住类: 与旅游中常见的产品相关的槽 住
 zhu_jd : h_hotel : 酒店 : 万豪酒店
