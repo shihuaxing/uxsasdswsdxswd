@@ -1,0 +1,11 @@
+## 正则规则
+
+###re ^[A-Za-z\d]+([-_.][A-Za-z\d]+)*@([A-Za-z\d]+[-.])+[A-Za-z\d]{2,4}$||| mail
+###re  \d{11}$ ||| phone
+###re [^\w]no\.\d+$ ||| order
+
+#*{phone}<phone># ||| 电话
+#*{mail}<mail># ||| 邮箱
+###ac kj_all & __abcd ||| test1| 地点
+###ac kj_all & pr_brand||| test1| 地点
+#*{kj_all}#*{sv_visa}#||| test1| 地点
